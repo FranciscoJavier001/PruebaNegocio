@@ -14,7 +14,7 @@ export const Navbar = () => {
     <nav className="navbar navbar-dark bg-dark navbar-expand-sm">
       <Link
         className="navbar-brand" //** Es para que salga al inicio y mas grande */
-        to="/search" //** Donde me lleva cuando hago click */
+        to="/" //** Donde me lleva cuando hago click */
       >
         Negocio {/* Texto */}
       </Link>
@@ -29,7 +29,7 @@ export const Navbar = () => {
             activeClassName="active" //** Dond este seleccionado se quede en color blanco */
             className="nav-item nav-link" //** nav-item=Item de navegacion - nav-link= es para que todos se vean a la altura */
             exact //** Es la direccion a la que lleva */
-            to="/marvel">
+            to="/">
             Verduras
           </NavLink>
 

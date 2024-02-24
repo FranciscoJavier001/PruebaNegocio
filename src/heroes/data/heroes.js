@@ -3,7 +3,7 @@ export const heroes = [
     id: "marvel-acelga",
     superhero: "Acelga",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $18",
+    first_appearance: "Pz: $15",
   },
   {
     id: "marvel-aguacate",
@@ -69,7 +69,7 @@ export const heroes = [
     id: "marvel-cebolla",
     superhero: "Cebolla",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $38",
+    first_appearance: "Kg: $35",
   },
   {
     id: "marvel-cebollaMorada",
@@ -111,7 +111,7 @@ export const heroes = [
     id: "marvel-chileCaloro",
     superhero: "Chile Caloro",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $23",
+    first_appearance: "Kg: $26",
   },
   {
     id: "marvel-chileArbol",
@@ -135,7 +135,7 @@ export const heroes = [
     id: "marvel-chileAnaheim",
     superhero: "Chile Anaheim",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $26",
+    first_appearance: "Kg: $30",
   },
   {
     id: "marvel-chileHungaro",
@@ -165,13 +165,13 @@ export const heroes = [
     id: "marvel-cilantro",
     superhero: "Cilantro",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $15",
+    first_appearance: "Pz: $13",
   },
   {
     id: "marvel-coliflor",
     superhero: "Coliflor",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $25",
+    first_appearance: "Pz: $20",
   },
   {
     id: "marvel-curcuma",
@@ -195,7 +195,7 @@ export const heroes = [
     id: "marvel-epinaca",
     superhero: "Espinaca",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $15 / Pq: $42",
+    first_appearance: "Pz: $15 / Pq: $45",
   },
   {
     id: "marvel-frijolPinto",
@@ -249,7 +249,13 @@ export const heroes = [
     id: "marvel-jitomate",
     superhero: "Jitomate",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $15",
+    first_appearance: "Kg: $14",
+  },
+  {
+    id: "marvel-jitomateCherry",
+    superhero: "Jitomate Cherry",
+    publisher: "Marvel Comics",
+    first_appearance: "Kg: $20",
   },
   {
     id: "marvel-lechugaItaliana",
@@ -279,7 +285,7 @@ export const heroes = [
     id: "marvel-limon",
     superhero: "Limon",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $25",
+    first_appearance: "Kg: $23",
   },
   {
     id: "marvel-manzanilla",
@@ -321,7 +327,7 @@ export const heroes = [
     id: "marvel-pepino",
     superhero: "Pepino",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $38",
+    first_appearance: "Kg: $40",
   },
   {
     id: "marvel-perejil",
@@ -339,7 +345,7 @@ export const heroes = [
     id: "marvel-rabano",
     superhero: "Rabano",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $28",
+    first_appearance: "Pz: $25",
   },
   {
     id: "marvel-repollo",
@@ -387,7 +393,7 @@ export const heroes = [
     id: "marvel-tomatillo",
     superhero: "Tomatillo",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $22",
+    first_appearance: "Kg: $20 / Kg: $22",
   },
   {
     id: "marvel-tomillo",
@@ -477,13 +483,13 @@ export const heroes = [
     id: "dc-piña",
     superhero: "Piña",
     publisher: "DC Comics",
-    first_appearance: "Kg: $20",
+    first_appearance: "Kg: $21",
   },
   {
     id: "dc-platano",
     superhero: "Platano",
     publisher: "DC Comics",
-    first_appearance: "Kg: $13",
+    first_appearance: "Kg: $14",
   },
   {
     id: "dc-sandia",
