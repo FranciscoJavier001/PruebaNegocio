@@ -93,7 +93,7 @@ export const heroes = [
     id: "marvel-chayote",
     superhero: "Chayote",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $30",
+    first_appearance: "Kg: $25",
   },
   {
     id: "marvel-chicharos",
@@ -459,13 +459,13 @@ export const heroes = [
     id: "dc-manzanaVerde",
     superhero: "Manzana Verde",
     publisher: "DC Comics",
-    first_appearance: "Kg: $33",
+    first_appearance: "Kg: $34",
   },
   {
     id: "dc-melon",
     superhero: "Melon",
     publisher: "DC Comics",
-    first_appearance: "Kg: $28",
+    first_appearance: "Kg: $24",
   },
   {
     id: "dc-naranja",
