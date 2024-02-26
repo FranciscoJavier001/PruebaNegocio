@@ -57,7 +57,7 @@ export const heroes = [
     id: "marvel-calabaza",
     superhero: "Calabaza",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $28",
+    first_appearance: "Kg: $25",
   },
   {
     id: "marvel-camote",
@@ -69,13 +69,13 @@ export const heroes = [
     id: "marvel-cebolla",
     superhero: "Cebolla",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $35",
+    first_appearance: "Kg: $32",
   },
   {
     id: "marvel-cebollaMorada",
     superhero: "Cebolla Morada",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $38",
+    first_appearance: "Kg: $40",
   },
   {
     id: "marvel-cebollitasCambray",
@@ -400,6 +400,12 @@ export const heroes = [
     superhero: "Tomillo",
     publisher: "Marvel Comics",
     first_appearance: "Kg: $250",
+  },
+  {
+    id: "marvel-verdolaga",
+    superhero: "Verdolaga",
+    publisher: "Marvel Comics",
+    first_appearance: "Pz: $30",
   },
   {
     id: "marvel-zanahoria",
