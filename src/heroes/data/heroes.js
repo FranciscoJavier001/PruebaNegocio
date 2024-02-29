@@ -198,24 +198,6 @@ export const heroes = [
     first_appearance: "Pz: $15 / Pq: $45",
   },
   {
-    id: "marvel-frijolPinto",
-    superhero: "Frijol Pinto",
-    publisher: "Marvel Comics",
-    first_appearance: "Kg: $42",
-  },
-  {
-    id: "marvel-frijolFlorDeJunio",
-    superhero: "Frijol Flor De Junio",
-    publisher: "Marvel Comics",
-    first_appearance: "Kg: $52",
-  },
-  {
-    id: "marvel-frijolPeruano",
-    superhero: "Frijol Peruano",
-    publisher: "Marvel Comics",
-    first_appearance: "Kg: $52",
-  },
-  {
     id: "marvel-germen",
     superhero: "Germen",
     publisher: "Marvel Comics",
@@ -508,5 +490,23 @@ export const heroes = [
     superhero: "Toronja",
     publisher: "DC Comics",
     first_appearance: "Kg: $26",
+  },
+  {
+    id: "otros-frijolPinto",
+    superhero: "Frijol Pinto",
+    publisher: "Otros",
+    first_appearance: "Kg: $42",
+  },
+  {
+    id: "otros-frijolFlorDeJunio",
+    superhero: "Frijol Flor De Junio",
+    publisher: "Otros",
+    first_appearance: "Kg: $52",
+  },
+  {
+    id: "otros-frijolPeruano",
+    superhero: "Frijol Peruano",
+    publisher: "Otros",
+    first_appearance: "Kg: $52",
   },
 ];

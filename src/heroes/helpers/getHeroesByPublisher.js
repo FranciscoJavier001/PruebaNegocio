@@ -1,7 +1,7 @@
-import { heroes } from '../data/heroes';
+import { heroes } from "../data/heroes";
 
 export const getHeroesByPublisher = (publisher) => {
-  const validPubliushers = ['Marvel Comics', 'DC Comics'];
+  const validPubliushers = ["Marvel Comics", "DC Comics", "Otros"];
 
   if (!validPubliushers.includes(publisher)) {
     throw new Error(`${publisher} is not a valid publisher`);

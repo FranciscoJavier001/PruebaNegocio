@@ -26,23 +26,21 @@ export const Navbar = () => {
           {/* Para que todas esten en hileras */}
 
           <NavLink
-            activeClassName="active" //** Dond este seleccionado se quede en color blanco */
             className="nav-item nav-link" //** nav-item=Item de navegacion - nav-link= es para que todos se vean a la altura */
-            exact //** Es la direccion a la que lleva */
+            exact
             to="/">
             Verduras
           </NavLink>
 
-          <NavLink
-            activeClassName="active"
-            className="nav-item nav-link"
-            exact
-            to="/dc">
+          <NavLink className="nav-item nav-link" exact to="/dc">
             Frutas
           </NavLink>
 
+          <NavLink className="nav-item nav-link" exact to="/otros">
+            Otros
+          </NavLink>
+
           <NavLink //** Ruta que me lleva al Search en el NavBar */
-            activeClassName="active" //** Para que se quede blanco cuando este ahi */
             className="nav-item nav-link"
             exact
             to="/search">
