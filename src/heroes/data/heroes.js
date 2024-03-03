@@ -27,7 +27,7 @@ export const heroes = [
     id: "marvel-apio",
     superhero: "Apio",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $18 / Pz: $28",
+    first_appearance: "Kg: $18 / Pz: $25",
   },
   {
     id: "marvel-berenjena",
@@ -69,13 +69,13 @@ export const heroes = [
     id: "marvel-cebolla",
     superhero: "Cebolla",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $32",
+    first_appearance: "Kg: $28",
   },
   {
     id: "marvel-cebollaMorada",
     superhero: "Cebolla Morada",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $40",
+    first_appearance: "Kg: $38",
   },
   {
     id: "marvel-cebollitasCambray",
@@ -105,7 +105,7 @@ export const heroes = [
     id: "marvel-chileAncho",
     superhero: "Chile Ancho",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $35",
+    first_appearance: "Kg: $22",
   },
   {
     id: "marvel-chileCaloro",
@@ -129,7 +129,7 @@ export const heroes = [
     id: "marvel-chileHabanero",
     superhero: "Chile Habanero",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $100",
+    first_appearance: "Kg: $120",
   },
   {
     id: "marvel-chileAnaheim",
@@ -159,7 +159,7 @@ export const heroes = [
     id: "marvel-chileSerrano",
     superhero: "Chile Serrano",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $25",
+    first_appearance: "Kg: $24",
   },
   {
     id: "marvel-cilantro",
@@ -255,7 +255,7 @@ export const heroes = [
     id: "marvel-lechugaRomana",
     superhero: "Lechuga Romana",
     publisher: "Marvel Comics",
-    first_appearance: "Pz: $12",
+    first_appearance: "Pz: $18",
   },
   {
     id: "marvel-lechugaSangria",
@@ -267,7 +267,7 @@ export const heroes = [
     id: "marvel-limon",
     superhero: "Limon",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $23",
+    first_appearance: "Kg: $20",
   },
   {
     id: "marvel-manzanilla",
@@ -375,7 +375,7 @@ export const heroes = [
     id: "marvel-tomatillo",
     superhero: "Tomatillo",
     publisher: "Marvel Comics",
-    first_appearance: "Kg: $20 / Kg: $22",
+    first_appearance: "Kg: $23",
   },
   {
     id: "marvel-tomillo",
